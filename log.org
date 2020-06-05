@@ -28,6 +28,79 @@
   A time log can be found at Google Sheets: https://bit.ly/2PRKRl8
 
   The time log has exact tasks worked on each entry, for each
+* Week 20
+This is the last week of the project. As of writing this, we have finished all deliverables which were
+1. Planning report
+2. Exhibition video
+3. Presentation
+4. Opposition (presentation and individual written ones)
+5. Report
+5. Project log
+6. Self evalutation reports
+7. Contributions report
+
+With this, the project is considered finished!
+
+** Report
+The temporary tag for a link to our examples in the results chapter was swapped
+out to a real link: https://datx02-20-04.github.io/examples/. This page holds
+most of the rendered songs.
+
+One unfortunate piece of information we missed was that the graded report is not
+the published one, but rather the graded one is the one sent first. This piece
+of information was only really available in an FAQ page on canvas, so it was
+easy to miss. This meant we didn't ensure that it was perfect before sending the
+first version. It was more considered as a draft. Had we known, many of the
+changes made for the publish-version would have been implemented earlier.
+
+We compiled all changes into a single document containing our thoughts on the
+opposition groups comments. This was sent to our supervisor and our examiner
+along with the final publish-ready version of the report.
+
+** Individual contributions
+Throughout this log, we've detailed what everyone has been working on each week.
+This was great but it was not feasible to do the last five or so weeks. The
+reason for this was that everyone worked everywhere, so writing individual
+sentences would just be identical for everyone in the group. They could also be
+really detailed, but in that case, the time log is a much better place for such
+things.
+
+We want to say that everyone in the group has contributed massively to the
+project. Not everyone spent an equal amount of time on for example implementing
+or training the models, but instead might have focused on other just as
+important parts, such as project management, documentation and writing. The most
+important point is that everyone contributed to group dynamics and project
+discussions, which is probably the primary reason for the success of the
+project. We got comments that conflicts would eventually arise in the group, but
+we never really encountered those.
+
+** Things left to do
+We still need to backup and remove all files from the training computer. As it's
+a small part, we won't add an entry to the log for that.
+
+** Overall thoughts on the project
+In general, we think the project was a success. The results are not perfect, but
+in terms of knowledge gained for the group, we learnt a lot. As it was a more
+advanced project than typical of a bachelor thesis, we are extremely happy with
+it. That said, the ambitions were high for the project from the start, so there
+are still many things we would have liked to experiment with.
+
+All our code, examples, and this log are available on github, so hopefully the
+work will contribute to others working on similar problems. And if not, at least
+the group can use the experience gained in this project to work on other machine
+learning oriented projects in the future.
+
+* Week 19
+We finished the presentation and opposition, as well as held them. The students
+holding the presentation were Christoffer, Carl, Eric and Lovisa. The students
+holding the opposition were Elias and Cao.
+
+The feedback gained from the opposition on our report was for the most part
+valid. We summarized it all in a document and created a final sprint to solve
+all problems.
+* Week 18
+We spent this week working on the presentation and the opposition. We also
+delivered the exhibition video at the stat of the week.
 * Week 16 and 17
 There's not a lot to write about these weeks. Most of the work is working on the
 deliverables of the exhibition, presentation and opposition.
